@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Martin (moi90)
+# Hi, I'm Martin (moi90)
 
 **Machine Learning Researcher @ GEOMAR | Plankton Image Recognition | Deep Learning for Marine Biodiversity**  
 PhD in Computer Science (Deep Learning, Clustering, Annotation of Plankton Images)  
